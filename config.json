@@ -1,0 +1,128 @@
+{
+  "nickname": "Kahu",
+  "words": ["Begginer", "Amator", "Student"],
+  "gridText": " website developer",
+  "navbar": {
+    "items": [
+      {
+        "title": "Home",
+        "enabled": true,
+        "expandable": false,
+        "href": "/Home",
+        "links": [
+          { "title": "Web Development", "href": "/web-development" },
+          { "title": "Interface Design", "href": "/interface-design" },
+          { "title": "Search Engine Optimization", "href": "/seo" },
+          { "title": "Branding", "href": "/branding" }
+        ]
+      },
+      {
+        "title": "Projects",
+        "enabled": true,
+        "expandable": false,
+        "href": "/Projects",
+        "products": [
+          {
+            "title": "NightHost.pl",
+            "href": "https://nighthost.pl",
+            "src": "https://cdn.discordapp.com/attachments/1291433797455183925/1293668250751864844/image.png?ex=670835f2&is=6706e472&hm=0bc4089f4998d6abdd30ba37bf2c78cbc28f09f6dd123afb6147c9ce4a751469&",
+            "description": "Good game and VPS hosting."
+          },
+          {
+            "title": "Tailwind Master Kit",
+            "href": "https://tailwindmasterkit.com",
+            "src": "https://assets.aceternity.com/demos/tailwindmasterkit.webp",
+            "description": "Production-ready Tailwind CSS components for your next project."
+          },
+          {
+            "title": "Moonbeam",
+            "href": "https://gomoonbeam.com",
+            "src": "https://assets.aceternity.com/demos/Screenshot+2024-02-21+at+11.51.31%E2%80%AFPM.png",
+            "description": "Never write from scratch again. Go from idea to blog in minutes."
+          },
+          {
+            "title": "Content Creator Pro",
+            "href": "https://contentcreatorpro.com",
+            "src": "https://example.com/path-to-image3.jpg",
+            "description": "Transform your ideas into engaging content effortlessly."
+          },
+          {
+            "title": "QuickBlog",
+            "href": "https://quickblog.com",
+            "src": "https://example.com/path-to-image4.jpg",
+            "description": "Launch your blog in minutes with our easy-to-use platform."
+          }
+        ]
+      },
+      {
+        "title": "Opinoins",
+        "enabled": true,
+        "expandable": false,
+        "href": "/opinions"
+      }
+    ]
+  },
+  "animatedPinDemo": {
+    "pins": [
+      {
+        "title": "NightHost.pl",
+        "href": "https://nighthost.pl",
+        "description": "Good game and VPS hosting.",
+        "image": "https://cdn.discordapp.com/attachments/1291433797455183925/1293668250751864844/image.png?ex=670835f2&is=6706e472&hm=0bc4089f4998d6abdd30ba37bf2c78cbc28f09f6dd123afb6147c9ce4a751469&"
+      },
+      {
+        "title": "Content Creator Pro",
+        "href": "https://contentcreatorpro.com",
+        "description": "Transform your ideas into engaging content effortlessly.",
+        "image": "https://example.com/path-to-image3.jpg"
+      },
+      {
+        "title": "QuickBlog",
+        "href": "https://quickblog.com",
+        "description": "Launch your blog in minutes with our easy-to-use platform.",
+        "image": "https://example.com/path-to-image4.jpg"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "What services do you offer?",
+      "answer": "We offer a variety of services including web development, interface design, SEO, and branding."
+    },
+    {
+      "question": "How can I contact you?",
+      "answer": "You can contact us via our contact form on the website or email us directly at support@example.com."
+    },
+    {
+      "question": "Do you offer custom solutions?",
+      "answer": "Yes, we provide custom solutions tailored to meet your specific needs and requirements."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness...",
+      "name": "Charles Dickens",
+      "title": "A Tale of Two Cities"
+    },
+    {
+      "quote": "To be, or not to be, that is the question...",
+      "name": "William Shakespeare",
+      "title": "Hamlet"
+    },
+    {
+      "quote": "All that we see or seem is but a dream within a dream.",
+      "name": "Edgar Allan Poe",
+      "title": "A Dream Within a Dream"
+    },
+    {
+      "quote": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+      "name": "Jane Austen",
+      "title": "Pride and Prejudice"
+    },
+    {
+      "quote": "Call me Ishmael. Some years ago—never mind how long precisely...",
+      "name": "Herman Melville",
+      "title": "Moby-Dick"
+    }
+  ]
+}
