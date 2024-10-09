@@ -21,17 +21,15 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({
-                                     children,
-                                   }: Readonly<{
+  children,
+}: {
   children: React.ReactNode;
-}>) {
+}) {
   return (
-      <html lang="en">
-      <body
-          className={`${inter.variable} ${poppins.variable} antialiased font-sans`}
-      >
-      {children}
+    <html lang="en">
+      <body className={`${inter.variable} ${poppins.variable} antialiased font-sans`}>
+        {children}
       </body>
-      </html>
+    </html>
   );
 }
